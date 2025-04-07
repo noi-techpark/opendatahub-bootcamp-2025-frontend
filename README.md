@@ -210,7 +210,7 @@ https://tourism.api.opendatahub.com/v1/WebcamInfo/FERATEL_84109A42-B103-47EA-A2C
 }
 ```
 
-There are a lot of fields available. Inspect the data of various providers and identify the right fields to display a webcam.
+There are a lot of fields available. Inspect the data of various providers and identify the right fields to display a webcam.  
 Reduce the json size by using field selectors, removing null data, remove data that is not usable etc....
 
 
