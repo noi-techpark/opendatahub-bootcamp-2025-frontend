@@ -217,5 +217,5 @@ Reduce the json size by using field selectors, removing null data, remove data t
 ### More information
 You can find more information on the API format here:  
 [Swagger Ninja API](https://tourism.api.opendatahub.com)  
-[Content Api Wiki](hhttps://github.com/noi-techpark/opendatahub-docs/wiki/Content-API)  
+[Content Api Wiki](https://github.com/noi-techpark/opendatahub-docs/wiki/Content-API)  
 [Open Data Hub documentation](https://opendatahub.readthedocs.io/)  
